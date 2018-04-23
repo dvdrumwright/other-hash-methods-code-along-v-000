@@ -10,6 +10,6 @@ groceries = {
 
 def get_the_keys(groceries)
   #code your solution here!
-  groceries.key
+  groceries.keys
   return groceries
 end
